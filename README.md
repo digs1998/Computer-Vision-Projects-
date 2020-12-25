@@ -3,7 +3,7 @@ Applying Object Localization and Object Detection techniques on various projects
 
 # Birds Detector
 
-**This project involves using Object detection and Object localization to create boxes around the birds**
+**This project involves using Object detection and Object localization to create boxes around the birds using Intersection over union process**
 
 **I have used [caltech_birds_2010](http://www.vision.caltech.edu/visipedia/CUB-200.html) dataset for creating a object detector, and have referred to concepts from Coursera for applying in this project**
 
@@ -15,4 +15,9 @@ Applying Object Localization and Object Detection techniques on various projects
 4. Tensorflow Datasets
 
 **Outputs**
-![]()
+
+![metrics_plot](bb_loss.png)
+
+![Training and Validation images](download.png)
+
+![final_output](download (1).png)
