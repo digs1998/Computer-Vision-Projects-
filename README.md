@@ -18,6 +18,4 @@ Applying Object Localization and Object Detection techniques on various projects
 
 ![metrics_plot](bb_loss.png)
 
-![Training and Validation images](download.png)
-
 ![final_output](download (1).png)
